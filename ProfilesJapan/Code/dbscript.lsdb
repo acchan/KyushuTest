@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.3'
+ replicaid='492578A1002389DF'>
+<noteinfo noteid='232' unid='328A850B9F947971492578A1002B3F9F' sequence='3'>
+<created><datetime>20110531T165223,35+09</datetime></created>
+<modified><datetime>20121219T004401,62+09</datetime></modified>
+<revised><datetime>20121219T004401,61+09</datetime></revised>
+<lastaccessed><datetime>20121219T004401,62+09</datetime></lastaccessed>
+<addedtofile><datetime>20110531T165223,38+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Admin/O=Lotus</name><name>CN=nd852lab/O=Lotus</name><name
+>CN=Administrator/O=LotusLab</name></updatedby>
+<wassignedby><name>CN=Administrator/O=LotusLab</name></wassignedby>
+<item name='$TITLE' sign='true'><text>Database Script</text></item>
+<item name='$Flags'><text>t34Q</text></item>
+<item name='$PublicAccess' sign='true'><text>1</text></item></note>
+
