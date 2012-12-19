@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.3" replicaid="492578A1002389DF" version="8.5" xmlns="http://www.lotus.com/dxl">
-<noteinfo noteid="14e" sequence="126" unid="9A330B3AFFECE17A492574DB002C37B0">
-<created><datetime>20081007T170258,40+09</datetime></created>
-<modified><datetime>20121219T004401,60+09</datetime></modified>
-<revised><datetime>20121219T004401,59+09</datetime></revised>
-<lastaccessed><datetime>20121219T004401,60+09</datetime></lastaccessed>
-<addedtofile><datetime>20110531T152817,09+09</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=admin/O=lotus</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Niklas Heidloff/OU=Germany/O=IBM</name><name>CN=Atsushi Sato/OU=Japan/O=IBM</name><name>CN=Admin/O=Lotus</name><name>CN=nd852lab/O=Lotus</name><name>CN=Administrator/O=LotusLab</name></updatedby>
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.3" replicaid="49257AD90029BEB1" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="20a" sequence="8" unid="1994924952A65E6649257AD9002A28C7">
+<created><datetime>20121219T164029,51+09</datetime></created>
+<modified><datetime>20121219T164131,46+09</datetime></modified>
+<revised><datetime>20121219T164131,45+09</datetime></revised>
+<lastaccessed><datetime>20121219T164131,46+09</datetime></lastaccessed>
+<addedtofile><datetime>20121219T164030,15+09</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Administrator/O=LotusLab</name></updatedby>
 <wassignedby><name>CN=Administrator/O=LotusLab</name></wassignedby>
 <item name="$TITLE"><text>container.xsp</text></item>
-
-
-
-<item name="$DesignerVersion" sign="true"><text>8.5</text></item>
-
-
-
-
 <item name="$Flags"><text>gC~;4</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
 
 
-<item name="$FileNames" sign="true"><text>container.xsp</text></item></note>
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>container.xsp</text></item>
+
+</note>
