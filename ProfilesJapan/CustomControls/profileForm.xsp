@@ -27,7 +27,7 @@
 	<xp:label value="プロフィール情報" id="label1"
 		style="font-size:14pt;font-weight:bold" themeId="Header">
 	</xp:label>
-	<xp:br></xp:br>
+	です<xp:br></xp:br>
 	<xp:br></xp:br>
 	<xp:table>
 		<xp:tr>
